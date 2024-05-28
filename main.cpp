@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main() {
-    printf("Hello, World! I am jetTransfer;");
+    std::cout << "Hello, World! I am jetTransfer." << std::endl;
     return  0;
 }
